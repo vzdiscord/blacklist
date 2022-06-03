@@ -1,0 +1,15 @@
+{
+    "token": "OTcwMTIzMjQ0ODYwNDg1Njgz.Ym3XrQ.coCe1qh7nXlZX8DZ6v1fAxGkJ2U",
+    "color": "Noir",
+    "prefix": "-",
+    "name": "🔪・/",
+    "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
+    "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
+    "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
+    "owner": [
+        "894668738937364491",
+        "934526231028846692",
+        "920356417662242826",
+        "id"
+    ]
+}
